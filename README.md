@@ -72,6 +72,7 @@
 | **The Attention Economy Is Over**   | アテンション・エコノミーの終わり。次世代SNSの設計条件。 | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
 | **The Agentic Commerce Economy** | AIエージェントが購買を代行する時代、広告モデルの構造的変化。 | [GitHub](https://github.com/Leading-AI-IO/agentic-commerce-economy)  |
 | **Will ai break the planet** | 数十兆円のインフラ投資と、地球温暖化の「不可逆ライン」。 | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet)  |
+| **The-forward-deployed-shift** | 成果実装 ── FDEが示す、AIで「作る」が終わった世界の価値のありか。 | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist)  |
 
 ---
 
