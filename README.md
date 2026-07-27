@@ -13,6 +13,27 @@
 
 ---
 
+> **定義｜What is The Growth Engine of Anthropic**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、Anthropicの企業価値が
+> 二次市場推計で約1.2兆ドルに達した軌道（確定値は2026年2月のシリーズG時点
+> 3,800億ドル）を、軌道の事実・製品と物理基盤・思想と信頼・フロンティア
+> ラボ比較・組織資本・地理的展開の6レイヤーから解剖した独立系構造分析で
+> ある。本書は「Anthropicが勝った」という表現を意図的に一度も使わない。
+> 序章の言葉：「判定ではない。優劣の比較ではない。観測可能な事実から構造
+> を記述することが本書の目的である。」
+>
+> **本書はAnthropic, PBCと提携・承認・後援関係にない独立した分析です。**
+>
+> **This book** is an independent structural analysis by Satoshi Yamauchi
+> examining Anthropic's valuation trajectory (secondary-market-implied
+> ~$1.2T vs. confirmed $380B Series G) across 6 structural layers, while
+> explicitly avoiding "Anthropic won" framing.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 2026年5月、Anthropicの企業価値が二次市場で約1.2兆ドルに達した。OpenAIの約8,800億ドルを上回り、世界で11位から15位の企業に並ぶ規模となった。
