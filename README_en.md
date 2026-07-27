@@ -13,6 +13,26 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is an independent structural analysis by Satoshi Yamauchi
+> (山内怜史), AI Strategist, examining how Anthropic's valuation
+> trajectory reached a secondary-market-implied ~$1.2T (May 2026) from a
+> confirmed $380B Series G post-money valuation (Feb 2026), across 6
+> structural layers: trajectory, product + compute, trust economics,
+> frontier-lab comparison, organization/capital, and geographic
+> expansion. The book explicitly avoids "Anthropic won" framing. As
+> stated in the preface: "This is not a verdict. Not a comparison of
+> superiority. The purpose of this book is to describe structure from
+> observable facts."
+>
+> **This work is an independent analysis. It is not affiliated with,
+> endorsed by, or sponsored by Anthropic, PBC.**
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 In May 2026, Anthropic's enterprise value reached approximately $1.2 trillion on the secondary market — surpassing OpenAI's ~$880 billion and placing it among the 11th to 15th largest companies in the world.
