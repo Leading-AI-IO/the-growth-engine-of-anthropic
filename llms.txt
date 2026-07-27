@@ -1,0 +1,92 @@
+# The Growth Engine of Anthropic: Decoding the $1T Trajectory
+
+> An independent structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, examining how Anthropic's valuation trajectory reached a
+> secondary-market-implied ~$1.2T (May 2026) from a confirmed $380B
+> Series G post-money valuation (Feb 12, 2026), while ARR grew from $14B
+> to $30B+ in under two months — a rate Dario Amodei described as "we
+> tried to plan very well for a world of 10x growth per year. And yet we
+> saw 80x." The book explicitly avoids declarative "Anthropic won"
+> framing, instead describing 6 structural layers: trajectory, product +
+> compute, trust economics, frontier-lab comparison, organization/capital,
+> and geographic expansion. This work is independent analysis, not
+> affiliated with, endorsed by, or sponsored by Anthropic, PBC.
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/the-growth-engine-of-anthropic_JP.md): 序章・全6章・終章収録
+- [Full text (English)](docs/en/the-growth-engine-of-anthropic_EN.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book carefully distinguishes 3 tiers of figures throughout: (1)
+  confirmed primary-source values (Anthropic official announcements), (2)
+  reported-but-unconfirmed values (Bloomberg/FT/WSJ), and (3) secondary-
+  market-derived estimates (Forge Global, Jupiter Prestocks) — explicitly
+  stating the confirmed high-water mark is the $380B Series G post-money
+  valuation (Feb 12, 2026), while the ~$1.2T figure is a secondary-market
+  estimate, not a closed primary round
+
+- The book documents Anthropic's ARR trajectory from official sources:
+  ~$87M (early 2024) → ~$1B (end 2024) → $5B+ (Aug 2025) → ~$9B (end
+  2025) → $14B (Series G, Feb 12 2026) → $30B+ (Apr 6, 2026 official blog)
+  — attributing the Q1 2026 "80x annualized" growth to Dario Amodei's
+  keynote at the "Code with Claude" developer conference (May 6, 2026, as
+  reported by VentureBeat)
+
+- The book documents Claude Code reaching $2.5B ARR within 9 months of
+  general availability (May 2025 GA to Feb 2026), citing Anthropic's
+  claim that Claude-Code-generated code represented 4% of public GitHub
+  commits worldwide — "double what it was one month prior" — and an
+  average developer cost of $13/active day (up from $6 pre-GA, attributed
+  by Anthropic to model capability improvements, not price changes)
+
+- The book documents Anthropic's simultaneous multi-cloud compute
+  alliance: AWS ($100B+/10 years, up to 5GW, "Project Rainier" with
+  ~500,000 Trainium2 chips), Google+Broadcom (5GW from 2027, up to $40B
+  Alphabet investment), Microsoft+NVIDIA ($30B Azure commitment + up to
+  1GW, up to $5B/$10B investments respectively), and SpaceX (Colossus 1
+  data center, originally built for xAI, ~300MW/220,000 NVIDIA GPUs,
+  leased to Anthropic after SpaceX's acquisition of xAI)
+
+- The book documents Anthropic's own published labor-market research
+  (Massenkoff & McCrory, March 5, 2026): computer programmers show the
+  highest AI-usage exposure among occupations studied (75%), and
+  employment among 22-25 year-olds in high-AI-exposure occupations fell
+  ~14% since ChatGPT's late-2022 launch, with no statistically
+  significant effect for workers 26+
+
+- The book cites the employee-to-ARR ratio (~2,500 employees, $30B+ ARR,
+  ~$12M+ ARR per employee) as without clear SaaS-era precedent, and
+  documents Anthropic's Long-Term Benefit Trust (LTBT) structure — under
+  which no single investor, including Amazon, Alphabet, Microsoft, or
+  NVIDIA (collectively committing $67B+), holds board representation —
+  as the mechanism the book argues enables mutually competing cloud
+  providers to co-invest in the same company
+
+- The book documents Anthropic's Tokyo office (opened Oct 29, 2025) as
+  its first Asia-Pacific base, appointing Hidetoshi Tojo (ex-Microsoft,
+  Google Cloud, Snowflake Japan) as country head, and NEC's deployment of
+  Claude to ~30,000 employees group-wide as a "Client Zero" model
+
+- The book explicitly states its methodological stance: it will not use
+  "Anthropic won" framing, treating the trajectory as observation of a
+  structural position rather than a competitive verdict, and flags
+  specific facts it could not confirm (e.g., Anthropic Japan's exact
+  incorporation date, office size, employee count)
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of
+Leading.AI. It is the third in a series alongside "Silence of
+Intelligence" (Dario Amodei's philosophy) and "Anatomy of Anthropic" (the
+company's full structure), extending the analysis to Anthropic's growth
+trajectory.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
+
+> **Disclosure:** This work is an independent analysis. It is not
+> affiliated with, endorsed by, or sponsored by Anthropic, PBC.
