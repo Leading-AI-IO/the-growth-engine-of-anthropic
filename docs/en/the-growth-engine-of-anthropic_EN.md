@@ -2,7 +2,7 @@
 **Decoding the $1T Trajectory**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](https://github.com/Leading-AI-IO/growth-engine-of-anthropic)
+[![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](https://github.com/Leading-AI-IO/the-growth-engine-of-anthropic)
 
 ![cover](../../assets/cover_design.png)
 
@@ -50,6 +50,12 @@ What happens when an organization that planned for 10x annual growth suddenly fa
 **Infrastructure redesign, organizational restructuring, strategic redefinition.**<br/>
 All of these are happening simultaneously during a few months of 2026.
 
+(Added on November 6, 2026)<br/>
+On November 2, 2026, Anthropic filed an amended registration statement (Form S-1/A) with the US Securities and Exchange Commission (SEC). This statement now appears as a figure in its financial statements.<br/>
+In July–September 2026, Anthropic recorded an operating loss of $567 million. The previous quarter (April–June) had an operating income of $974 million.<br/>
+The filing attributes the loss primarily to $5.0 billion of compute procured under short-term commitments, which it says "currently costs significantly more" than compute under multi-year agreements.<br/>
+**"Difficulties with compute" appeared in the numbers on the profit side, not in revenue growth.**
+
 This book dissects the structure that produced the $1.2 trillion observation point.
 
 This is not a judgment. Not a comparison of superiority.<br/>
@@ -58,8 +64,8 @@ This book describes — from observable facts — why, how, and through what str
 
 ## The Stance of This Book
 
-[Silence of Intelligence](https://github.com/Leading-AI-IO/silence-of-intelligence) dissected Dario Amodei's **thought**.<br/>
-[Anatomy of Anthropic](https://github.com/Leading-AI-IO/anatomy-of-anthropic) dissected Anthropic as a **corporate entity in full**.<br/>
+[Silence of Intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence) dissected Dario Amodei's **thought**.<br/>
+[Anatomy of Anthropic](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic) dissected Anthropic as a **corporate entity in full**.<br/>
 This book, as their sequel, dissects Anthropic's **growth trajectory**.
 
 Thought → Corporate entity → Trajectory. The scope expands progressively.<br/>
@@ -91,6 +97,10 @@ The highest confirmed value from a primary round is the $380 billion of Series G
 
 To blur this distinction and assert "Anthropic is a $1 trillion company" would betray the worldview of this book.
 
+(Added on November 6, 2026)<br/>
+With the S-1 (registration statement) made public on October 26, 2026 and its amendment, the S-1/A, on November 2, filings with the SEC have joined the confirmed primary-source values.<br/>
+"Revenue" in the filings is accounting revenue recognized over a period such as a quarter. It differs in definition from ARR (the current pace of revenue converted to a yearly figure), which Chapter 1 uses. Care is needed when placing the two side by side.
+
 <br/>
 
 ---
@@ -119,6 +129,19 @@ This means revenue at a scale that most SaaS companies take more than a decade t
 Dario Amodei wrote in the Series G announcement blog that ARR had been "growing more than 10x per year for the past three years."<br/>
 10x annual growth is, by itself, an abnormal velocity.<br/>
 But what was observed in Q1 2026 was annualized growth of **80x**.
+
+(Added on November 6, 2026)<br/>
+The S-1 and S-1/A disclosed quarterly accounting revenue for the first time.
+
+| Period | Revenue | Quarter-on-quarter | Source |
+| --- | --- | --- | --- |
+| Jan–Mar 2026 | ~$4.73B | +132% | H1 revenue of $16.286B (S-1) minus Apr–Jun. Quarter-on-quarter rate as reported by CNBC |
+| Apr–Jun 2026 | $11.555B | +144% | S-1/A |
+| Jul–Sep 2026 | **$16.956B** | **+47%** | S-1/A |
+| Jan–Sep 2026 | $33.242B (prior-year period ~$2.5B) | — | S-1/A |
+
+Multiplying July–September revenue by four gives about $67.8 billion. From ARR of over $30 billion on April 6, that is more than double the pace in half a year.<br/>
+Meanwhile, quarter-on-quarter growth fell from +144% to +47%. The cause of the slowdown cannot be identified as of this edition.
 
 ## 1.2 The Origin of the "80x" Statement
 
@@ -292,6 +315,9 @@ Dario Amodei's "we have had difficulties with compute" can be read as the bottle
 Even with compute constraints, 80x was observed.<br/>
 This implies that with sufficient compute, growth could potentially be even higher.
 
+(Added on November 6, 2026)<br/>
+The S-1/A shows this supply constraint from the cost side. The main cause of the $567 million operating loss in July–September 2026 was $5.0 billion of expensive compute procured under short-term commitments (see the addition to the Prologue).
+
 ## 1.7 Summary of This Chapter
 
 This chapter dissected the two months from $14B to $30B from the following angles.
@@ -319,6 +345,11 @@ Chapter 6 covers Anthropic Japan as a forward base.
 > [Bloomberg: $19B ARR anonymous source (2026/3/3)](https://www.bloomberg.com/news/articles/2026-03-03/anthropic-revenue-runs-near-19-billion)<br/>
 > [Financial Times: "$45B soon" (2026/5/7)](https://www.ft.com/content/anthropic-arr-45-billion)<br/>
 > [Latent.Space (swyx): "80x annualized growth" thesis (2026/5/9)](https://www.latent.space/p/anthropic-80x)
+>
+> **(Added on November 6, 2026) SEC filings:**<br/>
+> Anthropic, PBC. Form S-1 Registration Statement (2026/10/26)<br/>
+> [Form S-1/A, Amendment No. 1 (2026/11/2)](https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm)<br/>
+> [CNBC: "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1" (2026/11/2)](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html)
 
 <br/>
 
@@ -700,6 +731,26 @@ Training and inference across NVIDIA GPUs, AWS Trainium, and Google TPUs — thr
 creates **immunity against specific hardware supply constraints**.<br/>
 Even if NVIDIA GPU supply tightens, Trainium2 or TPU can substitute.
 
+(Added on November 6, 2026)<br/>
+The S-1/A disclosed the total of commitments, including the contracts with the four companies in this chapter.<br/>
+As of September 30, 2026, purchase commitments and lease agreements for compute totaled **approximately $895.4 billion**, "substantially all of which is related to compute and infrastructure."<br/>
+Of this, **approximately $69.8 billion falls due within the next 12 months**, and approximately $447.5 billion is expected to be incurred before December 31, 2030.
+
+The roughly $69.8 billion due in the next 12 months is about the same as July–September 2026 revenue multiplied by four (about $67.8 billion). The total commitment equals about 13 years of that.<br/>
+The filing also lists as a risk that some compute providers depend on outside financing, and that delays or higher costs there could affect the contracted capacity.
+
+Compute and infrastructure expenses were also disclosed by quarter (S-1/A).
+
+| Quarter | Compute and infrastructure expense | Ratio to revenue |
+| --- | --- | --- |
+| Jul–Sep 2025 | $2.047B | — |
+| Jan–Mar 2026 | $3.387B | ~72% |
+| Apr–Jun 2026 | $5.558B | ~48% |
+| Jul–Sep 2026 | $9.863B | ~58% |
+
+July–September expense was about 4.8 times the prior-year period (+382%). The January–September total was $18.808 billion, up $14.427 billion from the prior-year period (+329%).<br/>
+The ratio to revenue fell in April–June and rose again in July–September, the quarter that used expensive short-term compute (see the addition to the Prologue).
+
 ## 2.13 The Structural Advantage of "Coding" as a Category
 
 Up to here, we have examined both Claude Code (demand side) and the Compute Alliance (supply side).<br/>
@@ -773,6 +824,7 @@ The answer is not in product features or compute scale. It is in **the trust tha
 12. AWS. (2025/10/29). "AWS activates Project Rainier: One of the world's largest AI compute clusters comes online." *aboutamazon.com*
 13. WSJ. (2026/4/24). "Google Expands Anthropic Investment With $40 Billion Commitment."
 14. The Information. (2026/5/5). "Anthropic said to commit to $200B in AI capacity on Google Cloud."
+15. (Added on November 6, 2026) Anthropic, PBC. (2026/11/2). Form S-1/A Amendment No. 1. *SEC EDGAR*
 
 <br/>
 
@@ -1678,6 +1730,15 @@ The reverse is also true.<br/>
 The LTBT structure is often explained philosophically as "to secure autonomy from investors,"<br/>
 but it also functions as **a commercial structure that enables joint investment among competing cloud providers**.
 
+(Added on November 6, 2026)<br/>
+The S-1 of October 26, 2026 disclosed the voting design in concrete terms.<br/>
+Immediately before the offering, one share of Class F common stock will be issued to the Founder LLC, made up of the seven co-founders. This one share carries **50.1%** of the total voting power on matters submitted to stockholders generally, and has no economic rights. Within the Founder LLC, each continuing founder has one vote on how the share is cast.<br/>
+The LTBT holds one share of Class T stock and elects and removes the **Class T directors, who form a majority of the board**. Class T stock also has no economic rights.<br/>
+Public investors buy Class A common stock, for which Anthropic has applied to list on the Nasdaq Global Select Market under the symbol "ANT."
+
+After the listing, the founders hold the majority of stockholder votes and the LTBT holds the majority of the board.<br/>
+The structure in this section, in which "even major investors do not hold management control," carries over after the listing and extends to public stockholders.
+
 ## 5.6 Valuation Trajectory — 380x in Four Years
 
 Track Anthropic's valuation trajectory using only confirmed rounds.
@@ -1811,6 +1872,14 @@ All of these simultaneously constitute Anthropic's value.<br/>
 A $1T-scale valuation cannot be explained by ARR alone.<br/>
 Physicality and software-nature, thought and commerce, small-organization size and large influence — multiple factors **stack non-linearly** to constitute the current valuation.
 
+(Added on November 6, 2026)<br/>
+The S-1/A also shows how this physicality appears in the income statement.<br/>
+The net loss for January–September 2026 was $104.039 billion, but about 90% of it ($94.324 billion) is an accounting expense from changes in the fair value of convertible notes, derivative liabilities and SAFEs (Simple Agreements for Future Equity).<br/>
+The operating loss for the same period was $1.26 billion. The adjusted operating margin for July–September was 15% (about $2.5 billion). The October 2026 reports of "profitable on an adjusted basis" and of a "huge loss" were looking at different lines of the income statement.
+
+As of September 30, 2026, cash and short-term investments totaled $131.845 billion, more than the roughly $69.8 billion of compute commitments due in the next 12 months.<br/>
+The total commitment (about $895.4 billion), however, is about 6.8 times that amount.
+
 ## 5.10 Summary of This Chapter
 
 | Aspect | Value | Structural Meaning |
@@ -1863,6 +1932,8 @@ connect with the structures discussed throughout this book.
 13. WSJ. (2026/4/24). "Google Expands Anthropic Investment With $40 Billion Commitment."
 14. Financial Times. (2026/5/7). "Anthropic weighs deal for near $1tn valuation as revenue surges."
 15. Anthropic. (2023). "Anthropic's Long-Term Benefit Trust." *anthropic.com*
+16. (Added on November 6, 2026) Anthropic, PBC. (2026/10/26). Form S-1 Registration Statement. *SEC EDGAR*
+17. (Added on November 6, 2026) Anthropic, PBC. (2026/11/2). Form S-1/A Amendment No. 1. *SEC EDGAR*
 
 <br/>
 
@@ -2228,6 +2299,13 @@ The possibility that Anthropic itself will slow down due to scale-related organi
 If these risks materialize, parts of the engine will stop.<br/>
 The structural advantages discussed in this book are **observation results at the current moment, not guarantees of permanence**.
 
+(Added on November 6, 2026)<br/>
+The November 2026 filings put numbers on three of the four fuels.<br/>
+**Compute supply** is at a stage of filling gaps with expensive short-term capacity, which was the main cause of the July–September 2026 operating loss.<br/>
+**Capital inflow** has moved to raising money from public markets through an IPO (initial public offering).<br/>
+**Product demand** growth fell from +144% to +47% quarter on quarter.<br/>
+Whether this slowdown is temporary or a structural change will be observed in the next quarter's disclosure.
+
 ## E.5 Beyond This Book
 
 Understanding Anthropic is only part of understanding the AI industry as a whole.
@@ -2264,8 +2342,9 @@ That is, at this moment, the conclusion of **The Growth Engine of Anthropic**.
 3. Anthropic. (2026/4/6). "Anthropic expands partnership with Google and Broadcom..." *anthropic.com*
 4. VentureBeat. (2026/5/7). "Anthropic says it hit a $30 billion revenue run-rate after 'crazy' 80x growth." *venturebeat.com*
 5. Financial Times. (2026/5/7). "Anthropic weighs deal for near $1tn valuation as revenue surges."
-6. Yamauchi, Satoshi. (2025). *Silence of Intelligence — A Structural Analysis of Dario Amodei's Thought*. Leading AI, LLC. CC BY 4.0. [GitHub](https://github.com/Leading-AI-IO/silence-of-intelligence)
-7. Yamauchi, Satoshi. (2026). *Anatomy of Anthropic — The Philosophy, Products, Economics, and Governance Behind the World's Most Deliberate AI Company*. Leading.AI LLC. CC BY 4.0. [GitHub](https://github.com/Leading-AI-IO/anatomy-of-anthropic)
+6. Yamauchi, Satoshi. (2025). *Silence of Intelligence — A Structural Analysis of Dario Amodei's Thought*. Leading AI, LLC. CC BY 4.0. [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence)
+7. Yamauchi, Satoshi. (2026). *Anatomy of Anthropic — The Philosophy, Products, Economics, and Governance Behind the World's Most Deliberate AI Company*. Leading.AI LLC. CC BY 4.0. [GitHub](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic)
+8. (Added on November 6, 2026) Anthropic, PBC. (2026/11/2). Form S-1/A Amendment No. 1. *SEC EDGAR*
 
 ---
 
