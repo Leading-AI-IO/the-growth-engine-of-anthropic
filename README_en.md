@@ -4,6 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--06-brightgreen)](https://github.com/Leading-AI-IO/the-growth-engine-of-anthropic/releases)
 
 <p align="left">
   <img src="./assets/cover_design.png" width="90%">
@@ -26,6 +27,13 @@
 > superiority. The purpose of this book is to describe structure from
 > observable facts."
 >
+> (Added on November 6, 2026)<br>
+> v1.1 adds figures from Anthropic's registration statements filed with the
+> US Securities and Exchange Commission (SEC): the S-1 (October 26, 2026) and
+> its amendment, the S-1/A (November 2). Revenue for July–September 2026 was
+> $16.956B, and purchase and lease commitments for compute total about
+> $895.4B (about $69.8B of it due within the next 12 months).
+>
 > **This work is an independent analysis. It is not affiliated with,
 > endorsed by, or sponsored by Anthropic, PBC.**
 >
@@ -38,6 +46,9 @@
 In May 2026, Anthropic's enterprise value reached approximately $1.2 trillion on the secondary market — surpassing OpenAI's ~$880 billion and placing it among the 11th to 15th largest companies in the world.
 
 The confirmed valuation is the **$380 billion** post-money figure from the Series G round on February 12, 2026. And the ARR that stood at $14 billion at Series G crossed $30 billion in less than two months. Dario Amodei put it plainly: *"We planned for 10x annual growth. We saw 80x."*
+
+(Added on November 6, 2026)<br>
+The S-1/A of November 2, 2026 disclosed accounting revenue. Revenue for July–September 2026 was $16.956 billion; multiplied by four, it is about $67.8 billion. That is about the same as the compute commitments falling due within the next 12 months (about $69.8 billion). In the same quarter, Anthropic recorded an operating loss of $567 million, which the filing attributes primarily to expensive compute procured under short-term commitments. **The statement "we saw 80x, and that is why we have had difficulties with compute" appeared in the numbers on the profit side.**
 
 The question of this book is clear. **Why has this trajectory been established?**
 
@@ -66,6 +77,17 @@ This is not a judgment. Not a comparison of superiority. Expressions like "Anthr
 - **Chapter 5:** The Non-Linearity of Organization, Capital, and Valuation — Dissecting the Management Structure
 - **Chapter 6:** Anthropic Japan as a Forward Base — Geographic Deployment of the Global Structure
 - **Epilogue:** The Implications of Structure — What Lies Beyond $1 Trillion
+
+---
+
+## 🔄 Update History
+
+This book is a cross-section of Anthropic's growth trajectory at one point in time. Each time a new primary source is published, it is added and recorded as a version.
+
+| Version | Date | Changes |
+| --- | --- | --- |
+| **v1.0** | 2026-05-13 | First edition (Prologue, six chapters, Epilogue) |
+| **v1.1** | 2026-11-06 | Added figures from Anthropic's S-1 (October 26, 2026) and S-1/A (November 2). Added to the Prologue and Chapter 1 the quarterly revenue (July–September: $16.956B, +47% quarter on quarter) and the July–September operating loss (primarily due to expensive short-term compute). Added to Chapter 2 the purchase and lease commitments for compute (about $895.4B, of which about $69.8B is due within the next 12 months) and quarterly compute expenses. Added to Chapter 5 the Class F stock (50.1% of voting power to the founders) and Class T stock (the LTBT elects a majority of the board), the breakdown of the net loss, and cash on hand. Added to the Epilogue the status of three of the four fuels. Corrected the language badge and related-book links in the body to the current repository names |
 
 ---
 

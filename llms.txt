@@ -75,6 +75,16 @@
   specific facts it could not confirm (e.g., Anthropic Japan's exact
   incorporation date, office size, employee count)
 
+- (Added on November 6, 2026) v1.1 adds figures from Anthropic's SEC
+  filings, the S-1 (Oct 26, 2026) and S-1/A (Nov 2, 2026): quarterly
+  revenue of $4.73B / $11.555B / $16.956B for Q1–Q3 2026 (Q3 +47% QoQ);
+  a Q3 operating loss of $567M attributed primarily to $5.0B of compute
+  under short-term commitments; purchase and lease commitments of about
+  $895.4B, substantially all for compute and infrastructure, with about
+  $69.8B due within 12 months; and a Class F share giving the seven
+  co-founders 50.1% of voting power, while the LTBT elects the Class T
+  directors who form a board majority
+
 ## Author & Full Catalog
 
 This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
