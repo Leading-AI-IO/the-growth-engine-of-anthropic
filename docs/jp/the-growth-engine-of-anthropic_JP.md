@@ -2,7 +2,7 @@
 **Decoding the $1T Trajectory / Anthropicの1兆ドル到達の構造解剖**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](https://github.com/Leading-AI-IO/growth-engine-of-anthropic)
+[![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](https://github.com/Leading-AI-IO/the-growth-engine-of-anthropic)
 
 ![cover](../../assets/cover_design.png)
 
@@ -50,6 +50,12 @@ Financial Timesは5月7日、「近々450億ドルに到達する見込み」と
 **インフラの再設計、組織の再構築、戦略の再定義**。<br/>
 それら全てが2026年の数ヶ月間に同時進行している。
 
+（2026年11月6日追記）<br/>
+2026年11月2日、AnthropicはSEC（米国証券取引委員会）に、上場申請書類S-1の訂正版（S-1/A）を提出した。この発言は、その財務諸表の数字として現れた。<br/>
+2026年7〜9月、Anthropicは5億6,700万ドルの営業損失を計上した。前の四半期（4〜6月）は9億7,400万ドルの営業利益だった。<br/>
+申請書類は損失の主因を、短期契約で調達した50億ドル分の計算資源とし、それが複数年契約の計算資源より「現時点で大幅に高い」と説明している。<br/>
+**「コンピュートに苦労してきた」は、売上の伸びではなく、利益の側に数字として現れた。**
+
 本書は、この$1.2兆ドルという観測点に至った構造を解剖する。
 
 判定ではない。優劣の比較ではない。<br/>
@@ -58,8 +64,8 @@ Financial Timesは5月7日、「近々450億ドルに到達する見込み」と
 
 ## 本書のスタンス
 
-[Silence of Intelligence](https://github.com/Leading-AI-IO/silence-of-intelligence)はダリオ・アモディの**思想**を解剖した。<br/>
-[Anatomy of Anthropic](https://github.com/Leading-AI-IO/anatomy-of-anthropic)はAnthropicという**企業体の全容**を解剖した。<br/>
+[Silence of Intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence)はダリオ・アモディの**思想**を解剖した。<br/>
+[Anatomy of Anthropic](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic)はAnthropicという**企業体の全容**を解剖した。<br/>
 本書は、その続編として、Anthropicの**成長軌道**を解剖する。
 
 思想 → 企業体 → 軌道。射程は段階的に拡張されている。<br/>
@@ -91,6 +97,10 @@ Block（40%）、Coinbase（14%）、Cloudflare（20%）。<br/>
 
 この区別を曖昧にしたまま「Anthropicは1兆ドル企業」と断定することは、本書の世界観に反する。
 
+（2026年11月6日追記）<br/>
+2026年10月26日にS-1（上場申請書類）が、11月2日にその訂正版S-1/Aが公開され、一次情報源確定値にSECへの申請書類が加わった。<br/>
+申請書類の「売上」は、四半期などの期間に計上した会計上の売上である。第1章で扱うARR（その時点の売上の速度を年に換算した値）とは定義が異なる。両者を並べるときは、この違いに注意が必要である。
+
 <br/>
 
 ---
@@ -119,6 +129,19 @@ Anthropicの公式発表に基づくARR（年間経常収益）の軌道は、�
 ダリオ・アモディはシリーズGの発表ブログで、ARRが「過去3年間、毎年10倍以上成長してきた」と記述した。<br/>
 年間10倍成長は、それ自体が異常な速度である。<br/>
 だが、2026年第1四半期に観測されたのは、年率換算で**80倍**の成長だった。
+
+（2026年11月6日追記）<br/>
+S-1とS-1/Aで、会計上の四半期売上が初めて開示された。
+
+| 期間 | 売上 | 前四半期比 | 出典 |
+| --- | --- | --- | --- |
+| 2026年1〜3月 | 約47.3億ドル | +132% | 上半期の162.86億ドル（S-1）から4〜6月を引いた値。前四半期比はCNBC報道 |
+| 2026年4〜6月 | 115.55億ドル | +144% | S-1/A |
+| 2026年7〜9月 | **169.56億ドル** | **+47%** | S-1/A |
+| 2026年1〜9月 | 332.42億ドル（前年同期 約25億ドル） | — | S-1/A |
+
+7〜9月の売上を4倍すると、約678億ドルになる。4月6日のARR 300億ドル超から、半年で2倍強の速度になった計算である。<br/>
+一方で、前四半期比の伸びは+144%から+47%に下がった。減速の要因は、本書の時点では特定できない。
 
 ## 1.2 「80倍」という発言の起源
 
@@ -315,6 +338,9 @@ Claude Codeが「補助ツール」ではなく「主要な作業環境」にな
 Anthropicの成長が「需要不足」ではなく「供給不足」によって律速されていることを示している。<br/>
 需要は$30B以上に到達可能であり、Computeさえ確保できれば収益はさらに伸びる構造にある。
 
+（2026年11月6日追記）<br/>
+S-1/Aは、この「供給不足」を費用の側から示している。2026年7〜9月の営業損失5億6,700万ドルの主因は、短期契約で調達した、割高な50億ドル分の計算資源だった（序章の追記を参照）。
+
 この3つの観測は、第3章で詳述するコンピュート同盟設計の必然性を示唆する。<br/>
 AWS（5GW、10年で1,000億ドル超）、<br/>
 Google+Broadcom（5GW、2027年以降）、<br/>
@@ -354,7 +380,10 @@ Claude Codeの作業時間取り込み、Computeの制約解消——が同時�
 7. Bloomberg. (2026/3/3). "Anthropic's run-rate revenue recently surpassed $19 billion." [anonymous-source reporting]
 8. Financial Times. (2026/5/7). "Anthropic weighs deal for near $1tn valuation as revenue surges." *ft.com*
 9. Business Insider via Yahoo Finance. (2026/5). "Anthropic's pre-IPO secondary market valuation: Forge Global commentary."
-10. 山内怜史. (2026). *Anatomy of Anthropic — The Philosophy, Products, Economics, and Governance Behind the World's Most Deliberate AI Company*. Leading.AI LLC. CC BY 4.0. [GitHub](https://github.com/Leading-AI-IO/anatomy-of-anthropic)
+10. 山内怜史. (2026). *Anatomy of Anthropic — The Philosophy, Products, Economics, and Governance Behind the World's Most Deliberate AI Company*. Leading.AI LLC. CC BY 4.0. [GitHub](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic)
+11. （2026年11月6日追記）Anthropic, PBC. (2026/10/26). Form S-1 Registration Statement. *SEC EDGAR*
+12. （2026年11月6日追記）Anthropic, PBC. (2026/11/2). Form S-1/A Amendment No. 1. *SEC EDGAR* [sec.gov](https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm)
+13. （2026年11月6日追記）CNBC. (2026/11/2). "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1." *cnbc.com*
 
 <br/>
 
@@ -739,6 +768,26 @@ NVIDIA GPU、AWS Trainium、Google TPU——3種類のシリコンで訓練・�
 **特定のハードウェア供給制約に対する免疫**を作る。<br/>
 NVIDIA GPUの供給が逼迫しても、Trainium2やTPUで代替できる。
 
+（2026年11月6日追記）<br/>
+S-1/Aは、本章の4社との契約を含む、約束の総額を示した。<br/>
+2026年9月30日時点で、計算資源の購入とリースの約束は**約8,954億ドル**。その「実質的にすべて」が計算資源とインフラに関するものである。<br/>
+このうち**約698億ドルが今後12か月以内に**、約4,475億ドルが2030年末までに発生する見込みである。
+
+今後12か月の約698億ドルは、2026年7〜9月の売上を4倍した約678億ドルとほぼ同じ規模である。約束の総額は、その約13年分にあたる。<br/>
+申請書類は、計算資源の提供元の一部が外部からの資金調達に依存しており、その遅れや費用の増加が、契約した容量に影響しうることもリスクとして記載している。
+
+計算資源とインフラの費用も、四半期ごとに開示された（S-1/A）。
+
+| 四半期 | 計算資源とインフラの費用 | 売上に対する比率 |
+| --- | --- | --- |
+| 2025年7〜9月 | 20.47億ドル | — |
+| 2026年1〜3月 | 33.87億ドル | 約72% |
+| 2026年4〜6月 | 55.58億ドル | 約48% |
+| 2026年7〜9月 | 98.63億ドル | 約58% |
+
+7〜9月の費用は、前年同期の約4.8倍（+382%）になった。1〜9月の合計は188.08億ドルで、前年同期から144.27億ドル増えた（+329%）。<br/>
+売上に対する比率は、4〜6月に下がり、7〜9月に再び上がった。7〜9月は、短期契約の割高な計算資源を使った四半期である（序章の追記を参照）。
+
 ## 2.13 「コーディング」というカテゴリーの構造的優位
 
 ここまで、Claude Code（需要側）とCompute Alliance（供給側）の両面を見てきた。<br/>
@@ -812,6 +861,7 @@ $2.5B ARRの製品が80倍の成長軌道に乗っているからこそ、4社�
 12. AWS. (2025/10/29). "AWS activates Project Rainier: One of the world's largest AI compute clusters comes online." *aboutamazon.com*
 13. WSJ. (2026/4/24). "Google Expands Anthropic Investment With $40 Billion Commitment."
 14. The Information. (2026/5/5). "Anthropic said to commit to $200B in AI capacity on Google Cloud."
+15. （2026年11月6日追記）Anthropic, PBC. (2026/11/2). Form S-1/A Amendment No. 1. *SEC EDGAR*
 
 <br/>
 
@@ -1718,6 +1768,15 @@ Anthropic は投資家からの**経営的独立性**を維持している。
 LTBT 構造は「投資家からの自律性を確保するため」と思想的に説明されることが多いが、<br/>
 **競合クラウドプロバイダー間の共同投資を可能にする商業的構造**としても機能している。
 
+（2026年11月6日追記）<br/>
+2026年10月26日のS-1で、議決権の設計が具体的に開示された。<br/>
+上場の直前に、創業者7人で構成するFounder LLCへ、Class F株式1株が発行される。この1株は、株主総会に付される事項の議決権の**50.1%**を持ち、経済的な権利は持たない。Founder LLCの中では、在籍する創業者が1人1票で、この1株の行使方法を決める。<br/>
+LTBTはClass T株式1株を持ち、**取締役会の過半数を占めるClass T取締役**を選任・解任する。Class T株式も経済的な権利を持たない。<br/>
+一般の投資家が買うのはClass A株式で、ナスダック・グローバル・セレクト市場に銘柄コード「ANT」で上場を申請している。
+
+上場後も、株主総会の議決権の過半は創業者が、取締役会の過半はLTBTが握る。<br/>
+本節の「主要投資家であっても経営権を持たない」構造は、上場後は一般の株主にも及ぶ形で引き継がれる。
+
 ## 5.6 バリュエーション軌道 — 4年で 380x
 
 Anthropic のバリュエーション軌道を、確定したラウンドのみで追跡する。
@@ -1851,6 +1910,14 @@ Anthropic の長期的な構造投資に対して、最も整合的な資金源�
 $1T 規模のバリュエーションは、ARR だけでは説明できない。<br/>
 物理性とソフトウェア性、思想と商業、組織の少人数性と影響力の大きさ——複数の要因が**非線形に積み重なって**、現在の評価額を構成している。
 
+（2026年11月6日追記）<br/>
+S-1/Aは、この「物理性」が損益にどう現れるかも示した。<br/>
+2026年1〜9月の純損失は1,040.39億ドルだが、その約9割（943.24億ドル）は、転換社債・デリバティブ負債・SAFE（Simple Agreement for Future Equity、将来株式取得契約）の公正価値の変動による会計上の費用である。<br/>
+同じ期間の営業損失は12.6億ドル。7〜9月の調整後営業利益率は15%（約25億ドル）だった。2026年10月の「調整後で黒字」の報道と「巨額の赤字」の報道は、損益計算書の異なる段の数字を見ている。
+
+2026年9月30日時点の現金と短期投資は、合計1,318.45億ドル。今後12か月の計算資源の約束（約698億ドル）を上回る。<br/>
+ただし、約束の総額（約8,954億ドル）は、その約6.8倍である。
+
 ## 5.10 本章のまとめ
 
 | 観点 | 値 | 構造的意味 |
@@ -1903,6 +1970,8 @@ NEC・Rakuten・NRI・Mercari・DeNA・Classmethod という日本企業の採�
 13. WSJ. (2026/4/24). "Google Expands Anthropic Investment With $40 Billion Commitment."
 14. Financial Times. (2026/5/7). "Anthropic weighs deal for near $1tn valuation as revenue surges."
 15. Anthropic. (2023). "Anthropic's Long-Term Benefit Trust." *anthropic.com*
+16. （2026年11月6日追記）Anthropic, PBC. (2026/10/26). Form S-1 Registration Statement. *SEC EDGAR*
+17. （2026年11月6日追記）Anthropic, PBC. (2026/11/2). Form S-1/A Amendment No. 1. *SEC EDGAR*
 
 <br/>
 
@@ -2270,6 +2339,13 @@ Anthropic 自身がスケールに伴う組織課題で減速する可能性。
 これらのリスクが顕在化すれば、エンジンの一部が止まる。<br/>
 本書で論じた構造的優位は、**永続性の保証ではなく、現時点での観測結果**である。
 
+（2026年11月6日追記）<br/>
+2026年11月の申請書類で、4つの燃料のうち3つの状態が数字で分かった。<br/>
+**コンピュート供給**は、短期契約の割高な容量で補う局面にあり、2026年7〜9月の営業損失の主因になった。<br/>
+**資本流入**は、IPO（新規株式公開）による公開市場からの調達へ、段階が移った。<br/>
+**製品需要**の伸びは、前四半期比で+144%から+47%に下がった。<br/>
+この減速が一時的なものか、構造の変化かは、次の四半期の開示で観測する。
+
 ## 終.5 本書を超えて
 
 Anthropic を理解することは、AI 産業全体を理解することの一部でしかない。
@@ -2306,8 +2382,9 @@ Anthropic の軌道は、まだ進行中である。<br/>
 3. Anthropic. (2026/4/6). "Anthropic expands partnership with Google and Broadcom..." *anthropic.com*
 4. VentureBeat. (2026/5/7). "Anthropic says it hit a $30 billion revenue run-rate after 'crazy' 80x growth." *venturebeat.com*
 5. Financial Times. (2026/5/7). "Anthropic weighs deal for near $1tn valuation as revenue surges."
-6. 山内怜史. (2025). *Silence of Intelligence — ダリオ・アモディの思想を構造分析する*. Leading AI, LLC. CC BY 4.0. [GitHub](https://github.com/Leading-AI-IO/silence-of-intelligence)
-7. 山内怜史. (2026). *Anatomy of Anthropic — The Philosophy, Products, Economics, and Governance Behind the World's Most Deliberate AI Company*. Leading.AI LLC. CC BY 4.0. [GitHub](https://github.com/Leading-AI-IO/anatomy-of-anthropic)
+6. 山内怜史. (2025). *Silence of Intelligence — ダリオ・アモディの思想を構造分析する*. Leading AI, LLC. CC BY 4.0. [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence)
+7. 山内怜史. (2026). *Anatomy of Anthropic — The Philosophy, Products, Economics, and Governance Behind the World's Most Deliberate AI Company*. Leading.AI LLC. CC BY 4.0. [GitHub](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic)
+8. （2026年11月6日追記）Anthropic, PBC. (2026/11/2). Form S-1/A Amendment No. 1. *SEC EDGAR*
 
 ---
 
